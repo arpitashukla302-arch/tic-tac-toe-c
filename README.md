@@ -1,4 +1,4 @@
-# tic-tac-toe-c
+# Tic-Tac-Toe-C
 🎮Tic TAC Toe game in c
 📌 **Description**
 This is a simple Tic Tac Toe game built using C programming language. It allows two players to play on a 3*3 board
